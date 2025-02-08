@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Mahmoud Shehata | 
 Syed Naqvi | 
-[Naseem Uddin](https://github.com/naseem-student)
+[Naseem Uddin](https://github.com/naseem-student) |
 [Jibril Wague](https://github.com/Jibril1010)
 
 ## Stakeholders
