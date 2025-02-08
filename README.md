@@ -4,10 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Mahmoud Shehata
-Syed Naqvi
-Naseem Uddin
-Jibril Wague
+Mahmoud Shehata | 
+Syed Naqvi | 
+Naseem Uddin | https://github.com/naseem-student
+Jibril Wague | https://github.com/Jibril1010
 
 ## Stakeholders
 
