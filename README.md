@@ -31,9 +31,8 @@ See instructions. Delete this line and place your Product Vision Statement here.
 10. As a roommate, I want an unbiased AI mediator so that we can fairly solve disagreements in our household.
 
 ## Activity Diagrams
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![image](https://github.com/user-attachments/assets/e1ec42d5-ecd0-4c0f-b5ed-802105cfb077)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Prototype](https://www.figma.com/proto/TBHUIddCKjOoALChT5TBTE/Unified-Coders?node-id=0-1&t=h0GBGtnp8uqz920H-1)
