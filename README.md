@@ -36,6 +36,7 @@ As a roommate, I want a shared calendar for guest visits and house events so tha
 ![image](https://github.com/user-attachments/assets/e1ec42d5-ecd0-4c0f-b5ed-802105cfb077)
 
 As a roommate, I want an anonymous voting system for house decisions so that we can fairly resolve disputes without pressure.
+
 <img width="350" alt="Screenshot 2025-02-10 at 8 21 30 PM" src="https://github.com/user-attachments/assets/7e16cfb2-5650-4aba-8736-ac568d79f131" />
 
 ## Clickable Prototype
