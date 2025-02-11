@@ -5,13 +5,32 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Mahmoud Shehata](https://github.com/MahmoudS1201) | 
-Syed Naqvi | 
+[Syed Naqvi](https://github.com/syed1naqvi)
 [Naseem Uddin](https://github.com/naseem-student) |
 [Jibril Wague](https://github.com/Jibril1010)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Stakeholders: 
+*Jordan Ward* - Lives in an apartment with 3 roommates in LES, roommates with Ernie.
+*Ernie Padilla* - Lives in an apartment with 3 roommates in LES, roommates with Jordan.
+*Asliana Alberto* - Resident in Broome Street Residence Hall (NYU Dorm).
+*Brianna Walter* - Also a resident in Broome Street Residence Hall, was involved in a roommate conflict.
+
+### Goals/Needs:
+1.	Way to easily divide rent payments and shared expenses without confusion.
+2.	Way to list out and assign chores fairly and automatically. 
+3.	Shared calendar to schedule events or guests or important dates for the household. 
+4.	A place to communicate all things about household without it interfering with personal chats.
+5.	Single place where all household bills are managed and can be monitored.
+
+### Frustrations/Problems:
+1.	There is unequal effort in chores and no way to track it/confirm it.
+2.	Sometimes people forget to purchase/pay for things (rent, groceries, etc.)
+3.	There are awkward confrontations when discussing group decisions.
+4.	Sometimes people argue over who paid for what and there is no organized record.
+5.	Disagreements about boundaries (space, noise levels, guests).
+
 
 ## Product Vision Statement
 
@@ -36,4 +55,4 @@ To create the best possible co-living experience by creating an all-in-one platf
 
 ## Clickable Prototype
 
-[Prototype]()
+[Prototype](https://www.figma.com/design/TBHUIddCKjOoALChT5TBTE/Unified-Coders?node-id=0-1&t=xYzVgMfR8WkXynpx-1)
