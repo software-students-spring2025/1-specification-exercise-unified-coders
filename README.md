@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Mahmoud Shehata | 
+[Mahmoud Shehata](https://github.com/MahmoudS1201) | 
 Syed Naqvi | 
 [Naseem Uddin](https://github.com/naseem-student) |
 [Jibril Wague](https://github.com/Jibril1010)
@@ -15,11 +15,11 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+To create the best possible co-living experience by creating an all-in-one platform for roommates to manage expenses, chores, schedules, and communication.
 
 ## User Requirements
 
-1. As a roommate, I want to view the rent payment status so that I know who has paid and who still needs to contribute.
+1. As a roommate, I want to be able to log all of my expenses in one place to keep track of what I am paying for the household.
 2. As a roommate, I want to see my assigned chores for the day so that I know what I need to complete.
 3. As a roommate, I want to schedule a date when I will have guests over so that my roommates are aware in advance.
 4. As a roommate, I want to see when my roommates will have guests over so that I can plan accordingly.
@@ -32,7 +32,8 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Activity Diagrams
 ![image](https://github.com/user-attachments/assets/e1ec42d5-ecd0-4c0f-b5ed-802105cfb077)
+![image](/Users/mahmoud/Desktop/S25SWE/Projects/Project1/1-specification-exercise-unified-coders)
 
 ## Clickable Prototype
 
-[Prototype](https://www.figma.com/proto/TBHUIddCKjOoALChT5TBTE/Unified-Coders?node-id=0-1&t=h0GBGtnp8uqz920H-1)
+[Prototype]()
