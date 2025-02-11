@@ -31,8 +31,12 @@ To create the best possible co-living experience by creating an all-in-one platf
 10. As a roommate, I want an unbiased AI mediator so that we can fairly solve disagreements in our household.
 
 ## Activity Diagrams
+
+As a roommate, I want a shared calendar for guest visits and house events so that we can avoid scheduling conflicts and respect each other’s space.
 ![image](https://github.com/user-attachments/assets/e1ec42d5-ecd0-4c0f-b5ed-802105cfb077)
-![image](https://drive.google.com/file/d/1iwBycwkfn-DZWtqWyQE7SS-qCf_XDDtd/view?usp=sharing)
+
+As a roommate, I want an anonymous voting system for house decisions so that we can fairly resolve disputes without pressure.
+<img width="350" alt="Screenshot 2025-02-10 at 8 21 30 PM" src="https://github.com/user-attachments/assets/7e16cfb2-5650-4aba-8736-ac568d79f131" />
 
 ## Clickable Prototype
 
