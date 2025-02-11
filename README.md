@@ -12,10 +12,10 @@ A little exercise to get started with the specification phase of the software de
 ## Stakeholders
 
 ### Stakeholders: 
-*Jordan Ward* - Lives in an apartment with 3 roommates in LES, roommates with Ernie.
-*Ernie Padilla* - Lives in an apartment with 3 roommates in LES, roommates with Jordan.
-*Asliana Alberto* - Resident in Broome Street Residence Hall (NYU Dorm).
-*Brianna Walter* - Also a resident in Broome Street Residence Hall, was involved in a roommate conflict.
+*Jordan Ward* - Lives in an apartment with 3 roommates in LES, roommates with Ernie.\
+*Ernie Padilla* - Lives in an apartment with 3 roommates in LES, roommates with Jordan.\
+*Asliana Alberto* - Resident in Broome Street Residence Hall (NYU Dorm).\
+*Brianna Walter* - Also a resident in Broome Street Residence Hall, was involved in a roommate conflict.\
 
 ### Goals/Needs:
 1.	Way to easily divide rent payments and shared expenses without confusion.
