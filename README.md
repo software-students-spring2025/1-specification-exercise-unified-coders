@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Mahmoud Shehata](https://github.com/MahmoudS1201) | 
-[Syed Naqvi](https://github.com/syed1naqvi)
+[Syed Naqvi](https://github.com/syed1naqvi) |
 [Naseem Uddin](https://github.com/naseem-student) |
 [Jibril Wague](https://github.com/Jibril1010)
 
