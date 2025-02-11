@@ -32,7 +32,7 @@ To create the best possible co-living experience by creating an all-in-one platf
 
 ## Activity Diagrams
 ![image](https://github.com/user-attachments/assets/e1ec42d5-ecd0-4c0f-b5ed-802105cfb077)
-![image](/Users/mahmoud/Desktop/S25SWE/Projects/Project1/1-specification-exercise-unified-coders)
+![image](https://drive.google.com/file/d/1iwBycwkfn-DZWtqWyQE7SS-qCf_XDDtd/view?usp=sharing)
 
 ## Clickable Prototype
 
