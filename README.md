@@ -62,4 +62,4 @@ As a roommate, I want an anonymous voting system for house decisions so that we 
 
 ## Clickable Prototype
 
-[Prototype](https://www.figma.com/design/TBHUIddCKjOoALChT5TBTE/Unified-Coders?node-id=0-1&t=xYzVgMfR8WkXynpx-1)
+[Prototype](https://www.figma.com/proto/TBHUIddCKjOoALChT5TBTE/Unified-Coders?node-id=0-1&t=Pcf55P9O0gDkYSWr-1)
